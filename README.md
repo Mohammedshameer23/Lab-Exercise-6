@@ -1,4 +1,4 @@
-[UX_Lab_Exercise_6_Report.pdf](https://github.com/user-attachments/files/31881244/UX_Lab_Exercise_6_Report.pdf)# Lab-Exercise-6
+# Lab-Exercise-6
 ## Aim
 To apply User Experience (UX) design techniques by generating solution ideas, writing user stories, creating user scenarios, designing user flow diagrams, and organizing information architecture for a real-world application. The objective is to understand the complete UX design process and create a user-friendly, well-structured application.
 
