@@ -7,9 +7,7 @@ To apply User Experience (UX) design techniques by generating solution ideas, wr
 
 ## output
 
-[Uploading UX_Lab_Exercise_6_Report.pdf…]()
-
-
+[UX_Lab_Exercise_6_Report.pdf](https://github.com/user-attachments/files/31893490/UX_Lab_Exercise_6_Report.pdf)
 
 ## Result:
 The UX design process was successfully completed by identifying a real-world problem, generating multiple solution ideas, writing user stories, creating a detailed user scenario, designing a user flow, and organizing the application's information architecture. The final design demonstrates a clear navigation structure, improved usability, and a user-centered approach that enhances the overall experience of the Hospital Appointment Booking System.
